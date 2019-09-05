@@ -1,0 +1,70 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\user\\Documents\\GitHubPersonal\\ArticleManager\\ArticlesManager.Tests\\ArticlesManager.Tests.csproj",
+    "projectName": "ArticlesManager.Tests",
+    "projectPath": "C:\\Users\\user\\Documents\\GitHubPersonal\\ArticleManager\\ArticlesManager.Tests\\ArticlesManager.Tests.csproj",
+    "outputPath": "C:\\Users\\user\\Documents\\GitHubPersonal\\ArticleManager\\ArticlesManager.Tests\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\user\\Documents\\GitHubPersonal\\ArticleManager\\ArticlesManager\\ArticlesManager.csproj": {
+            "projectPath": "C:\\Users\\user\\Documents\\GitHubPersonal\\ArticleManager\\ArticlesManager\\ArticlesManager.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.12.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

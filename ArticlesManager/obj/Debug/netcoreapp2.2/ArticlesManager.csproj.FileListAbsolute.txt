@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.dll.config
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.deps.json
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.runtimeconfig.json
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.runtimeconfig.dev.json
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.dll
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\bin\Debug\netcoreapp2.2\ArticlesManager.pdb
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.csprojAssemblyReference.cache
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.RazorAssemblyInfo.cache
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.RazorAssemblyInfo.cs
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.RazorTargetAssemblyInfo.cache
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.dll
+C:\Users\user\RiderProjects\ArticlesManager\ArticlesManager\obj\Debug\netcoreapp2.2\ArticlesManager.pdb

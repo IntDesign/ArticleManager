@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticlesManager", "ArticlesManager\ArticlesManager.csproj", "{66CEED72-55C1-49E5-B45B-B5FCCAB90EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticlesManager.Tests", "ArticlesManager.Tests\ArticlesManager.Tests.csproj", "{C91D9111-1291-456C-A2AE-0D4010CC2BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CEED72-55C1-49E5-B45B-B5FCCAB90EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CEED72-55C1-49E5-B45B-B5FCCAB90EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CEED72-55C1-49E5-B45B-B5FCCAB90EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CEED72-55C1-49E5-B45B-B5FCCAB90EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91D9111-1291-456C-A2AE-0D4010CC2BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91D9111-1291-456C-A2AE-0D4010CC2BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91D9111-1291-456C-A2AE-0D4010CC2BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91D9111-1291-456C-A2AE-0D4010CC2BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

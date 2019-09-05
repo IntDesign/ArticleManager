@@ -1,0 +1,320 @@
+{
+  "PublisherName": "Reuters",
+  "Articles": [
+    {
+      "Url": "https://www.reuters.com/article/us-global-markets/world-stocks-lifted-to-2-1-2-month-highs-by-trade-optimism-idUSKCN1Q700Z?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "World stocks lifted to 2-1/2 month highs by trade optimism",
+      "Author": "Karin Strohecker",
+      "PublicationDate": "02/18/2019 16:15:18",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-wirecard-stocks/germany-bans-wirecard-shorting-as-prosecutors-probe-ft-journalist-idUSKCN1Q70GZ?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Germany bans Wirecard 'shorting' as prosecutors probe FT journalist",
+      "Author": "Arno Schuetze",
+      "PublicationDate": "02/18/2019 15:52:21",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-britain-huawei-tech/britain-does-not-support-total-huawei-network-ban-sources-idUSKCN1Q60NR?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Britain does not support total Huawei network ban: sources",
+      "Author": "Jack Stubbs",
+      "PublicationDate": "02/18/2019 14:31:21",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-wirecard-stocks-financial-times/britains-ft-says-allegations-over-wirecard-reporting-are-false-idUSKCN1Q7155?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Britain's FT says allegations over Wirecard reporting are false",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 14:28:41",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-mubadala-investment-softbank-group/softbank-invests-in-mubadalas-new-400-million-european-tech-fund-source-idUSKCN1Q70BK?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "SoftBank invests in Mubadala's new $400 million European tech fund:...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 09:26:43",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-newzealand-huawei-tech/new-zealand-will-conduct-own-assessment-of-huawei-equipment-risk-pm-idUSKCN1Q70IV?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "New Zealand will conduct own assessment of Huawei equipment risk: PM",
+      "Author": "Charlotte Greenfield",
+      "PublicationDate": "02/18/2019 09:22:35",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-newzealand-tax-digital/new-zealand-to-target-online-giants-with-digital-tax-idUSKCN1Q70AR?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "New Zealand to target online giants with digital tax",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 06:43:20",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-trade-autos/u-s-agency-submits-auto-tariff-probe-report-to-white-house-idUSKCN1Q706C?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "U.S. agency submits auto tariff probe report to White House",
+      "Author": "David Lawder",
+      "PublicationDate": "02/18/2019 05:29:47",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-petra-diamonds-cullinan-focus/famed-cullinan-mine-banks-on-big-diamonds-to-drive-down-debt-idUSKCN1Q30LZ?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Famed Cullinan mine banks on big diamonds to drive down debt",
+      "Author": "Emma Rumney",
+      "PublicationDate": "02/18/2019 00:19:55",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-ford-explorer/alabama-jury-awards-152-million-in-ford-explorer-rollover-case-idUSKCN1Q60QO?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Alabama jury awards $152 million in Ford Explorer rollover case",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/17/2019 22:41:08",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-venezuela-politics-gazprombank/russias-gazprombank-freezes-accounts-of-venezuelas-pdvsa-source-idUSKCN1Q60BK?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Russia's Gazprombank freezes accounts of Venezuela's PDVSA: source",
+      "Author": "Tatiana Voronova",
+      "PublicationDate": "02/17/2019 21:12:51",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-qatar-investment/qatar-aims-to-build-20-billion-sports-sector-ahead-of-world-cup-idUSKCN1Q60GA?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Qatar aims to build $20 billion sports sector ahead of World Cup",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/17/2019 15:59:16",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-qatar-real-estate-analysis/qatars-real-estate-market-faces-reality-check-ahead-of-world-cup-idUSKCN1Q4174?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Qatar's real estate market faces reality check ahead of World Cup",
+      "Author": "Eric Knecht",
+      "PublicationDate": "02/17/2019 07:50:35",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-nissan-ghosn-chairman/nissan-panel-to-recommend-outside-director-to-chair-board-nikkei-idUSKCN1Q601J?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Nissan panel to recommend outside director to chair board: Nikkei",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/17/2019 05:14:50",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-didi-chuxing-chile-exclusive/exclusive-china-ride-hailing-giant-didi-plans-chile-peru-launches-to-take-on-uber-idUSKCN1Q42K9?feedType=RSS&feedName=BUSINESSNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FBUSINESSNews+%28BUSINESS+News%29",
+      "Title": "Exclusive: China ride-hailing giant Didi plans Chile, Peru launches...",
+      "Author": "Aislinn Laing",
+      "PublicationDate": "02/16/2019 14:35:11",
+      "Category": "BUSINESS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-boxing-heavyweight-fury/boxing-britains-fury-signs-bumper-broadcast-deal-with-espn-idUSKCN1Q71D3?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Boxing: Britain's Fury signs bumper broadcast deal with ESPN",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 16:57:06",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-athletics-semenya/athletics-semenya-accuses-iaaf-of-breach-of-regulations-at-cas-hearing-idUSKCN1Q71CJ?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Athletics: Semenya accuses IAAF of breach of regulations at CAS...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 16:57:28",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-sport-australia-equality/australian-sports-sign-up-to-gender-pay-equality-scheme-idUSKCN1Q704T?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Australian sports sign up to gender pay equality scheme",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 14:03:05",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-singapore-conscription/singapore-says-soccer-star-could-face-jail-after-missing-enlistment-idUSKCN1Q70ZO?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Singapore says soccer star could face jail after missing enlistment",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 13:29:48",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-icehockey-nhl-roundup/nhl-roundup-blues-shut-out-wild-win-tenth-straight-idUSKCN1Q70FR?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "NHL roundup: Blues shut out Wild, win tenth straight",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 08:39:19",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-soccer-saudi-manchester-united/saudi-arabia-denies-crown-prince-seeks-to-buy-manchester-united-idUSKCN1Q70E4?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Saudi Arabia denies crown prince seeks to buy Manchester United",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 08:16:48",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-football-unk-roundup/aaf-roundup-apollos-top-commanders-move-to-2-0-idUSKCN1Q70D5?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "AAF roundup: Apollos top Commanders, move to 2-0",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 08:01:21",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-basketball-ncaa-roundup/top-25-roundup-st-johns-topples-no-13-villanova-idUSKCN1Q70AG?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Top 25 roundup: St. John's topples No. 13 Villanova",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 06:36:55",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-tennis-new-york/tennis-opelka-earns-first-tour-title-with-new-york-win-over-schnur-idUSKCN1Q7019?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "Tennis: Opelka earns first Tour title with New York win over Schnur",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 05:28:02",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-tennis-tennis-roundup/atp-roundup-monfils-tops-wawrinka-in-rotterdam-idUSKCN1Q6045?feedType=RSS&feedName=sportsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FsportsNews+%28Reuters+Sports+News%29",
+      "Title": "ATP roundup: Monfils tops Wawrinka in Rotterdam",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 03:01:56",
+      "Category": "SPORTS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-britain-eu-labour/seven-lawmakers-quit-uk-labour-party-citing-brexit-betrayal-anti-semitism-idUSKCN1Q70LC?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Seven lawmakers quit UK Labour Party citing Brexit 'betrayal',...",
+      "Author": "Elizabeth Piper",
+      "PublicationDate": "02/18/2019 16:56:06",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-britain-eu-coveney/ireland-spending-hundreds-of-millions-of-euros-on-no-deal-brexit-minister-idUSKCN1Q71DH?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Ireland spending 'hundreds of millions of euros' on no-deal Brexit:...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 16:55:36",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-turkey-security-nightclub/suspect-in-istanbul-nightclub-attack-denies-charges-anadolu-idUSKCN1Q71DD?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Suspect in Istanbul nightclub attack denies charges: Anadolu",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 16:54:36",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-israel-poland/poland-pulls-out-of-israel-summit-in-row-over-ww2-role-idUSKCN1Q70GF?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Poland pulls out of Israel summit in row over WW2 role",
+      "Author": "Alan Charlish",
+      "PublicationDate": "02/18/2019 16:42:27",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-mideast-crisis-syria-blast/twin-blasts-in-rebel-held-syrian-city-idlib-kill-at-least-15-idUSKCN1Q71C1?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Twin blasts in rebel-held Syrian city Idlib kill at least 15",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 16:31:00",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-mideast-crisis-islamicstate-detainees/u-s-backed-force-wont-release-jihadists-but-says-countries-must-take-them-back-idUSKCN1Q715H?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "U.S.-backed force won't release jihadists but says countries must...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 15:54:22",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-nigeria-election/parties-to-resume-campaigns-after-nigeria-poll-postponement-president-warns-against-skullduggery-idUSKCN1Q70TZ?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Army to be 'ruthless' against tampering in Nigeria's postponed...",
+      "Author": "Felix Onuah",
+      "PublicationDate": "02/18/2019 17:02:28",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-nigeria-election-opposition/nigerias-main-opposition-party-accuses-buhari-of-jungle-justice-threat-idUSKCN1Q719E?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Nigeria's main opposition party accuses Buhari of 'jungle justice'...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 15:42:37",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-facebook-privacy-britain/facebook-broke-rules-should-be-regulated-uk-lawmakers-idUSKCN1Q7005?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Facebook broke rules, should be regulated: UK lawmakers",
+      "Author": "Paul Sandle",
+      "PublicationDate": "02/18/2019 15:39:48",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-britain-spain-gibraltar/spanish-warship-ordered-ships-to-leave-british-waters-near-gibraltar-idUSKCN1Q70L6?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29",
+      "Title": "Spanish warship ordered ships to leave British waters near Gibraltar",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 15:27:34",
+      "Category": "WORLD"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-fbi-mccabe/trumps-relentless-attack-on-fbi-prompted-memoir-by-former-official-npr-idUSKCN1Q710L?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Trump's 'relentless attack' on FBI prompted memoir by former...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 13:37:20",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-trump-protests/critics-urge-presidents-day-protests-against-trumps-emergency-declaration-idUSKCN1Q70XX?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Critics urge Presidents Day protests against Trump's emergency...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 13:06:48",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-election-north-carolina/north-carolina-board-to-hear-evidence-on-election-fraud-claim-idUSKCN1Q70XH?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "North Carolina board to hear evidence on election fraud claim",
+      "Author": "Gabriella Borter",
+      "PublicationDate": "02/18/2019 13:02:42",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-germany-security/trump-policies-unite-allies-against-him-at-european-security-forum-idUSKCN1Q60L0",
+      "Title": "Trump policies unite allies against him at European security forum",
+      "Author": "Robin Emmott",
+      "PublicationDate": "02/18/2019 11:22:02",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-northkorea-usa-trump-japan/japans-pm-nominated-trump-for-nobel-peace-prize-on-u-s-request-asahi-idUSKCN1Q6041?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Japan's PM nominated Trump for Nobel Peace Prize on U.S. request:...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 06:53:19",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-venezuela-politics-eu/venezuela-denies-eu-lawmakers-entry-given-conspiratorial-motives-idUSKCN1Q704Z?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Venezuela denies EU lawmakers entry given 'conspiratorial motives'",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/18/2019 04:33:23",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-trump/california-tells-trump-that-lawsuit-over-border-wall-is-imminent-idUSKCN1Q60LR?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "California tells Trump that lawsuit over border wall is 'imminent'",
+      "Author": "David Morgan",
+      "PublicationDate": "02/18/2019 03:33:58",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-pompeo-kuwait/pompeo-to-visit-kuwait-next-month-says-kuwaits-deputy-foreign-minister-idUSKCN1Q60RA?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Pompeo to visit Kuwait next month, says Kuwait's deputy foreign...",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/17/2019 23:31:20",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-justice-rosen/u-s-transport-official-is-top-candidate-to-replace-rosenstein-sources-idUSKCN1Q42MG?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "U.S. transport official is top candidate to replace Rosenstein:...",
+      "Author": "David Shepardson",
+      "PublicationDate": "02/16/2019 04:50:50",
+      "Category": "POLITICS"
+    },
+    {
+      "Url": "https://www.reuters.com/article/us-usa-turkey-envoy/trump-to-nominate-satterfield-ambassador-to-turkey-idUSKCN1Q502H?feedType=RSS&feedName=politicsNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FPoliticsNews+%28Reuters+Politics+News%29",
+      "Title": "Trump to nominate Satterfield ambassador to Turkey",
+      "Author": "Reuters Editorial",
+      "PublicationDate": "02/16/2019 05:38:38",
+      "Category": "POLITICS"
+    }
+  ]
+}
